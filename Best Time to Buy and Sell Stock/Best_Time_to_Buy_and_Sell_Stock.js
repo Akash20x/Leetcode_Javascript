@@ -24,7 +24,8 @@ maximum price and that difference is the maximum profit.
 We also compare profit from previous day to current day profit to retain
 maximum profit everytime and if at last we get value of minprice on the 
 last day and calculate profit which turns to be zero so we retain our 
-value of profit from the previous day iteration */
+value of profit from the previous day iteration which will be the maximum 
+profit value */
 
 
 var maxProfit = function(prices) {
