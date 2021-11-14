@@ -27,6 +27,7 @@ We have to divide array into 3 parts such that:
  i = firstone of first part + iter  - 1
  (or i = second part -1)
  j = firstone of second part + iter
+ */
 
 
 var threeEqualParts = function(arr) {
